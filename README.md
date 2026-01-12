@@ -7,7 +7,6 @@ By analyzing audio features extracted from voice recordings, the model predicts 
 
 Speech emotion recognition plays a key role in applications such as human–computer interaction, sentiment analysis, mental health monitoring, and conversational AI.
 
----
 
 ## 🎯 Project Objectives
 - Extract meaningful audio features from speech signals  
@@ -15,7 +14,6 @@ Speech emotion recognition plays a key role in applications such as human–comp
 - Evaluate model performance on unseen audio samples  
 - Demonstrate end-to-end audio-based emotion classification  
 
----
 
 ## 🧠 Problem Statement
 Human emotions are often conveyed through speech tone, pitch, and intensity rather than words alone.  
@@ -23,7 +21,6 @@ Traditional text-based sentiment analysis fails to capture these nuances, making
 
 This project aims to model emotional patterns directly from **audio signals** using supervised learning techniques.
 
----
 
 ## 🛠️ Tech Stack
 - **Programming Language:** Python  
@@ -35,7 +32,6 @@ This project aims to model emotional patterns directly from **audio signals** us
 - **ML Techniques:** Supervised classification  
 - **Environment:** Jupyter Notebook / Python environment  
 
----
 
 ## 🎧 Feature Engineering
 Key audio features extracted from speech samples include:
@@ -46,7 +42,6 @@ Key audio features extracted from speech samples include:
 
 These features capture frequency, pitch, and energy variations that are critical for emotion recognition.
 
----
 
 ## 🤖 Modeling Approach
 - Audio features are extracted and normalized  
@@ -54,7 +49,6 @@ These features capture frequency, pitch, and energy variations that are critical
 - Multiple machine learning classifiers are trained and evaluated  
 - Model performance is measured using classification metrics  
 
----
 
 ## 📊 Evaluation Metrics
 - Accuracy  
@@ -64,16 +58,6 @@ These features capture frequency, pitch, and energy variations that are critical
 
 These metrics ensure balanced evaluation across emotional classes.
 
----
-
-## 📂 Project Structure
-- `data/` → Speech emotion audio datasets  
-- `feature_extraction.py` → Audio feature extraction pipeline  
-- `model_training.py` → Model training and evaluation  
-- `predict_emotion.py` → Emotion prediction on new audio input  
-- `notebooks/` → Exploratory analysis and experiments  
-
----
 
 ## 🚀 Use Cases
 - Emotion-aware virtual assistants  
@@ -81,7 +65,6 @@ These metrics ensure balanced evaluation across emotional classes.
 - Mental health and stress detection  
 - Machine learning portfolio project  
 
----
 
 ## 📌 Conclusion
 This project demonstrates how **machine learning and signal processing** can be combined to interpret emotional cues from speech.  
