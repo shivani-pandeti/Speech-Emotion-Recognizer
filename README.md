@@ -1,4 +1,4 @@
-# 🎙️🧠 Speech Emotion Recognition  
+# 🗣️ Speech Emotion Recognition  
 ### An ML-Based Audio Classification System
 
 ## 📌 Overview
